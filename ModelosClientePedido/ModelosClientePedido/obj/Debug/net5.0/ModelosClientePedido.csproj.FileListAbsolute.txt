@@ -1,0 +1,16 @@
+C:\Users\Basis Tecnologia\source\repos\ModelosClientePedido\ModelosClientePedido\bin\Debug\net5.0\ModelosClientePedido.exe
+C:\Users\Basis Tecnologia\source\repos\ModelosClientePedido\ModelosClientePedido\bin\Debug\net5.0\ModelosClientePedido.deps.json
+C:\Users\Basis Tecnologia\source\repos\ModelosClientePedido\ModelosClientePedido\bin\Debug\net5.0\ModelosClientePedido.runtimeconfig.json
+C:\Users\Basis Tecnologia\source\repos\ModelosClientePedido\ModelosClientePedido\bin\Debug\net5.0\ModelosClientePedido.runtimeconfig.dev.json
+C:\Users\Basis Tecnologia\source\repos\ModelosClientePedido\ModelosClientePedido\bin\Debug\net5.0\ModelosClientePedido.dll
+C:\Users\Basis Tecnologia\source\repos\ModelosClientePedido\ModelosClientePedido\bin\Debug\net5.0\ref\ModelosClientePedido.dll
+C:\Users\Basis Tecnologia\source\repos\ModelosClientePedido\ModelosClientePedido\bin\Debug\net5.0\ModelosClientePedido.pdb
+C:\Users\Basis Tecnologia\source\repos\ModelosClientePedido\ModelosClientePedido\obj\Debug\net5.0\ModelosClientePedido.csproj.AssemblyReference.cache
+C:\Users\Basis Tecnologia\source\repos\ModelosClientePedido\ModelosClientePedido\obj\Debug\net5.0\ModelosClientePedido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Basis Tecnologia\source\repos\ModelosClientePedido\ModelosClientePedido\obj\Debug\net5.0\ModelosClientePedido.AssemblyInfoInputs.cache
+C:\Users\Basis Tecnologia\source\repos\ModelosClientePedido\ModelosClientePedido\obj\Debug\net5.0\ModelosClientePedido.AssemblyInfo.cs
+C:\Users\Basis Tecnologia\source\repos\ModelosClientePedido\ModelosClientePedido\obj\Debug\net5.0\ModelosClientePedido.csproj.CoreCompileInputs.cache
+C:\Users\Basis Tecnologia\source\repos\ModelosClientePedido\ModelosClientePedido\obj\Debug\net5.0\ModelosClientePedido.dll
+C:\Users\Basis Tecnologia\source\repos\ModelosClientePedido\ModelosClientePedido\obj\Debug\net5.0\ref\ModelosClientePedido.dll
+C:\Users\Basis Tecnologia\source\repos\ModelosClientePedido\ModelosClientePedido\obj\Debug\net5.0\ModelosClientePedido.pdb
+C:\Users\Basis Tecnologia\source\repos\ModelosClientePedido\ModelosClientePedido\obj\Debug\net5.0\ModelosClientePedido.genruntimeconfig.cache
